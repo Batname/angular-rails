@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="2448348851">
+    <data-source source="LOCAL" name="PostgreSQL - bat@localhost" uuid="ca05876c-4197-4ef0-b371-8f5de1929748">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/bat</jdbc-url>
+      <user-name>bat</user-name>
+      <user-password>df98df9bdf9adf93df9bdf9adf93df9b</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails receta: development" uuid="b479041c-fd3c-4ab6-8ff1-4d0502a83791">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:receta_development</jdbc-url>
+      <user-name>bat</user-name>
+      <user-password>df98df9bdf9adf93df9bdf9adf93df9b</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails receta: test" uuid="451ff4d9-d587-4a8a-aa4f-295e34dc1995">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/receta_test</jdbc-url>
+      <user-name>bat</user-name>
+      <user-password>df98df9bdf9adf93df9bdf9adf93df9b</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails receta: production" uuid="4d27ae17-bd8e-4ae9-a256-9dc78a553b20">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/receta_production</jdbc-url>
+      <user-name>bat</user-name>
+      <user-password>df98df9bdf9adf93df9bdf9adf93df9b</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
